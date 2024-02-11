@@ -1,0 +1,17 @@
+#bbc-dark-mode-button{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    height: 20px;
+    width: 40px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: white;
+    color: black;
+}
+
+.bbc-dark-mode{
+    background-color: black;
+    color: white;
+
+}
