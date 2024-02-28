@@ -6,7 +6,7 @@
     "permissions": [],
     "content_scripts": [
       {
-        "matches": ["*://*.bbc.co.uk/*", "*://*.google.com/*", "*://*.bbc.com/*"],
+        "matches": ["*://*.bbc.co.uk/*", "*://*.bbc.com/*"],
         "js": ["contentscript.js"],
         "css": ["contentstyles.css"],
         "run_at": "document_end"
